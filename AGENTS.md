@@ -12,6 +12,7 @@
 4. **Fail fast, fail loud** — Surface errors at the source
 5. **Delete code** — Less code = fewer bugs. Question every addition
 6. **Verify, don't assume** — Run it. Test it. Prove it works
+7. **Never modify** files you did not create unless the task explicitly requires it.
 
 ---
 
